@@ -6,10 +6,10 @@
 
 .header {
     height: 95vh;
-    background-image: /* linear-gradient(
-        to bottom right,
-        rgba(128, 0, 128, 0.75),
-        rgba(105, 44, 105, 0.75)), */
+    background-image: linear-gradient(
+        to right bottom,
+        rgb(206, 4, 206, 0.8),
+        rgb(36, 0, 36, 0.8)),
     url(scrum.jpg);
     background-size: cover;
     background-position: top;
