@@ -14,5 +14,5 @@
     background-size: cover;
     background-position: top;
     
-    /* clip-path: polygon(100% 0, 50% 50%, 50% 50%, 0 100%); */
+    clip-path: polygon(0 0, 100% 33%, 100% 90%, 0% 100%);
 }
