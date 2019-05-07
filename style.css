@@ -4,6 +4,10 @@
     box-sizing: border-box; 
 }
 
+body {
+    background-color: purple;
+}
+
 .header {
     height: 95vh;
     background-image: linear-gradient(
